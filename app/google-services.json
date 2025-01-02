@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47529844214",
+    "firebase_url": "https://userregister-86366-default-rtdb.firebaseio.com",
+    "project_id": "userregister-86366",
+    "storage_bucket": "userregister-86366.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47529844214:android:3f3c4aabf127f472533bd7",
+        "android_client_info": {
+          "package_name": "com.example.userregisterfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrpfeTFundLINYK3Y4CJVO5ng2kH9UfZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
